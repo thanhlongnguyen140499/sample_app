@@ -7,7 +7,7 @@ end
 
 
 gem 'rails', '~> 5.1.6'
-
+gem 'bcrypt','3.1.13'
 gem 'puma', '~> 3.7'
 gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails', '~> 5.0'
